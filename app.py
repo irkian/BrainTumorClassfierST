@@ -1,6 +1,6 @@
+import torch
 import streamlit as st
 from PIL import Image
-import torch
 from torchvision import transforms
 import torch.nn as nn
 
