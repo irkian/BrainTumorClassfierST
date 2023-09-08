@@ -106,7 +106,8 @@ webencodings==0.5.1
 websocket-client==1.5.1
 widgetsnbextension==4.0.5
 streamlit==0.68.1
+torchvision==0.8.2
 torch==1.7.1
-torchvision==0.10.0
+
 
 
